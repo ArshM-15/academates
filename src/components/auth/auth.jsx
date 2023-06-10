@@ -1,7 +1,7 @@
 import "./auth.scss";
 import React, { useState, useEffect } from "react";
 import { auth, provider } from "../firebase/firebase.js";
-import { signInWithPopup, GoogleAuthProvider } from "firebase/auth";
+import { signInWithPopup } from "firebase/auth";
 import Cookies from "universal-cookie";
 import { useNavigate } from "react-router-dom";
 

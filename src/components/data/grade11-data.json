@@ -1,25 +1,69 @@
 [
     {
-      "Title": "Grade 11 Math",
-      "Members": 3
-    },
-    {
-      "Title": "Grade 11 Science",
-      "Members": 4
-    }
-    ,
-    {
       "Title": "Grade 11 English",
-      "Members": 4
+      "Grade": "Grade 11",
+      "Subject": "English",
+      "Members": 3,
+      "Room": ""
     },
     {
-      "Title": "Grade 11 Geography",
-      "Members": 4
+      "Title": "Grade 11 Functions",
+      "Grade": "Grade 11",
+      "Subject": "Functions",
+      "Members": 4,
+      "Room": ""
+
     }
     ,
     {
-      "Title": "Grade 11 French",
-      "Members": 4
+      "Title": "Grade 11 Biology",
+      "Grade": "Grade 11",
+      "Subject": "Biology",
+      "Members": 4,
+      "Room": ""
+
+    },
+    {
+      "Title": "Grade 11 Chemistry",
+      "Grade": "Grade 11",
+      "Subject": "Chemistry",
+      "Members": 4,
+      "Room": ""
+
     }
+    ,
+    {
+      "Title": "Grade 11 Computer Science",
+      "Grade": "Grade 11",
+      "Subject": "Computer Science",
+      "Members": 4,
+      "Room": ""
+
+    },
+    {
+      "Title": "Grade 11 Law",
+      "Grade": "Grade 11",
+      "Subject": "Law",
+      "Members": 4,
+      "Room": ""
+
+    },
+    {
+        "Title": "Grade 11 Business",
+        "Grade": "Grade 11",
+        "Subject": "Business",
+        "Members": 4,
+        "Room": ""
+  
+      }
+      ,
+    {
+        "Title": "Grade 10 Computer Science",
+        "Grade": "Grade 11",
+        "Subject": "Computer Science",
+        "Members": 4,
+        "Room": ""
+  
+      }
   ]
   
