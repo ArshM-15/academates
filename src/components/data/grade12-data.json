@@ -1,25 +1,69 @@
 [
     {
-      "Title": "Grade 12 Math",
-      "Members": 3
-    },
-    {
-      "Title": "Grade 12 Science",
-      "Members": 4
-    }
-    ,
-    {
       "Title": "Grade 12 English",
-      "Members": 4
+      "Grade": "Grade 12",
+      "Subject": "English",
+      "Members": 3,
+      "Room": ""
     },
     {
-      "Title": "Grade 12 Geography",
-      "Members": 4
+      "Title": "Grade 12 Calculas and Vectors",
+      "Grade": "Grade 12",
+      "Subject": "Calculas and Vectors",
+      "Members": 4,
+      "Room": ""
+
     }
     ,
     {
-      "Title": "Grade 12 French",
-      "Members": 4
+      "Title": "Grade 12 Chemistry",
+      "Grade": "Grade 12",
+      "Subject": "Chemistry",
+      "Members": 4,
+      "Room": ""
+
+    },
+    {
+      "Title": "Grade 12 Biology",
+      "Grade": "Grade 12",
+      "Subject": "Biology",
+      "Members": 4,
+      "Room": ""
+
     }
+    ,
+    {
+      "Title": "Grade 12 Physics",
+      "Grade": "Grade 12",
+      "Subject": "Physics",
+      "Members": 4,
+      "Room": ""
+
+    },
+    {
+      "Title": "Grade 12 Computer Science",
+      "Grade": "Grade 12",
+      "Subject": "Computer Science",
+      "Members": 4,
+      "Room": ""
+
+    },
+    {
+        "Title": "Grade 12 Law",
+        "Grade": "Grade 12",
+        "Subject": "Law",
+        "Members": 4,
+        "Room": ""
+  
+      }
+      ,
+    {
+        "Title": "Grade 12 Business",
+        "Grade": "Grade 12",
+        "Subject": "Business",
+        "Members": 4,
+        "Room": ""
+  
+      }
   ]
   
