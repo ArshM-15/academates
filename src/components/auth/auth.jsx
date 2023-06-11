@@ -32,14 +32,12 @@ const Auth = () => {
 
   return (
     <div className="auth">
-      <h1>WELCOME TO ACADEMATES!</h1>
+      <h1>WELCOME TO ACADEMATES!📚</h1>
       <p>
-        Academates is a dynamic online platform designed to connect students
-        from various educational backgrounds, fostering a supportive community
-        for collaborative learning and academic success. By leveraging advanced
-        networking features, Academates empowers users to find like-minded study
-        partners, engage in knowledge exchange, and enhance their educational
-        journey.
+        Academates is an awesome online platform that brings students from
+        different educational backgrounds together! It's all about creating a
+        super supportive community where you can find study buddies who are just
+        as passionate about learning as you are.
       </p>
 
       <button onClick={handleSignInWithGoogle}>
