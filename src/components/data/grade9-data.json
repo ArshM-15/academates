@@ -4,14 +4,14 @@
       "Grade": "Grade 9",
       "Subject": "Math",
       "Members": 3,
-      "Room": ""
+      "Room": "1"
     },
     {
       "Title": "Grade 9 Science",
       "Grade": "Grade 9",
       "Subject": "Science",
       "Members": 4,
-      "Room": ""
+      "Room": "2"
 
     }
     ,
@@ -20,7 +20,7 @@
       "Grade": "Grade 9",
       "Subject": "Science",
       "Members": 4,
-      "Room": ""
+      "Room": "3"
 
     },
     {
@@ -28,7 +28,7 @@
       "Grade": "Grade 9",
       "Subject": "Geography",
       "Members": 4,
-      "Room": ""
+      "Room": "4"
 
     }
     ,
@@ -37,7 +37,7 @@
       "Grade": "Grade 9",
       "Subject": "French",
       "Members": 4,
-      "Room": ""
+      "Room": "5"
 
     },
     {
@@ -45,7 +45,7 @@
       "Grade": "Grade 9",
       "Subject": "Business",
       "Members": 4,
-      "Room": ""
+      "Room": "6"
 
     }
   ]
