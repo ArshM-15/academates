@@ -32,8 +32,20 @@ const Auth = () => {
 
   return (
     <div className="auth">
-      <h1>Sign Up Page</h1>
-      <button onClick={handleSignInWithGoogle}>Sign-In with Google</button>
+      <h1>WELCOME TO ACADEMATES!</h1>
+      <p>
+        Academates is a dynamic online platform designed to connect students
+        from various educational backgrounds, fostering a supportive community
+        for collaborative learning and academic success. By leveraging advanced
+        networking features, Academates empowers users to find like-minded study
+        partners, engage in knowledge exchange, and enhance their educational
+        journey.
+      </p>
+
+      <button onClick={handleSignInWithGoogle}>
+        <i className="fa fa-google fa-fw"></i>
+        Sign-In with Google
+      </button>
     </div>
   );
 };

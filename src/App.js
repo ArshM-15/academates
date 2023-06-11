@@ -1,4 +1,4 @@
-import "./App.css";
+import "./App.scss";
 import React, { useState, useEffect } from "react";
 import { Route, Routes, useLocation, useNavigate } from "react-router-dom";
 import Home from "./components/home/home";
@@ -7,6 +7,7 @@ import { auth } from "./components/firebase/firebase.js";
 import { signOut } from "firebase/auth";
 import Cookies from "universal-cookie";
 import Grouproom from "./components/groupRoom/groupRoom";
+import logo from "./components/images/logo.png";
 
 function App() {
   const [isAuth, setIsAuth] = useState(false);
@@ -30,7 +31,11 @@ function App() {
 
   return (
     <div className="App">
-      <button onClick={signUserOut}>Sign Out</button>
+      <nav>
+        <img src={logo} />
+        <button onClick={signUserOut}>Sign Out</button>
+      </nav>
+
       <Routes>
         <Route exact path="/" element={<Auth />} />
         <Route exact path="/home/" element={<Home />} />

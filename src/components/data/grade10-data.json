@@ -4,14 +4,14 @@
       "Grade": "Grade 10",
       "Subject": "English",
       "Members": 3,
-      "Room": ""
+      "Room": "7"
     },
     {
       "Title": "Grade 10 Math",
       "Grade": "Grade 10",
       "Subject": "Math",
       "Members": 4,
-      "Room": ""
+      "Room": "8"
 
     }
     ,
@@ -20,7 +20,7 @@
       "Grade": "Grade 10",
       "Subject": "Science",
       "Members": 4,
-      "Room": ""
+      "Room": "9"
 
     },
     {
@@ -28,7 +28,7 @@
       "Grade": "Grade 10",
       "Subject": "History",
       "Members": 4,
-      "Room": ""
+      "Room": "10"
 
     }
     ,
@@ -37,7 +37,7 @@
       "Grade": "Grade 10",
       "Subject": "Business",
       "Members": 4,
-      "Room": ""
+      "Room": "11"
 
     },
     {
@@ -45,7 +45,7 @@
       "Grade": "Grade 10",
       "Subject": "French",
       "Members": 4,
-      "Room": ""
+      "Room": "12"
 
     },
     {
@@ -53,7 +53,7 @@
         "Grade": "Grade 10",
         "Subject": "Computer Science",
         "Members": 4,
-        "Room": ""
+        "Room": "13"
   
       }
   ]
