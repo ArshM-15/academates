@@ -6,8 +6,8 @@ import { getStorage } from "firebase/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyA6kUUt6_Vv7qhphqdwNHcwn2-dkErxwZ8",
-  authDomain: "academates-53fe5.firebaseapp.com",
+   apiKey: `${process.env.REACT_APP_API_KEY}`,
+  authDomain: `${process.env.REACT_APP_AUTH_DOMAIN}`,
   projectId: "academates-53fe5",
   storageBucket: "academates-53fe5.appspot.com",
   messagingSenderId: "491257844248",
