@@ -22,4 +22,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+<<<<<<< HEAD
 src/components/firebase/firebase.js
+=======
+# Added .env
+.env
+>>>>>>> aa5795bdace1b6a4c25c3f2c72aea6e154a3b669
